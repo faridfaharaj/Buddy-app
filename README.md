@@ -1,0 +1,2 @@
+# Buddy
+Socializing made easy
