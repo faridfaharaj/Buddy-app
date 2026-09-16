@@ -1,0 +1,19 @@
+//
+//  buddyTests.swift
+//  buddyTests
+//
+//  Created by Farid Fahara Juarez on 15/09/26.
+//
+
+import Testing
+@testable import buddy
+
+struct buddyTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+        // Swift Testing Documentation
+        // https://developer.apple.com/documentation/testing
+    }
+
+}
